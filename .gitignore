@@ -43,6 +43,7 @@ Thumbs.db
 typings
 
 # Dir for deploy
+temp
 # dist
 # public
 
